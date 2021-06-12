@@ -47,3 +47,23 @@ What are you grateful for?
 
 What motivates you?
 
+
+## What is your favorite…?
+
+What is your favorite book genre?
+
+What is your favorite music genre?
+
+What is your favorite movie genre?
+
+What is your favorite kind of food?
+
+What is your favorite kind of drink?
+
+What is your favorite animal?
+
+What is your favorite place?
+
+What is your favorite instrument?
+
+What is your favorite flavor?

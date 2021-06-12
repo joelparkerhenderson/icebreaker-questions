@@ -180,3 +180,16 @@ How do you like to work and why?
 How do you like to start your days?
 
 
+## Community
+
+What is a good example of a community and why?
+
+What is a good way to give back to a community?
+
+Who is someone in your community that makes a difference?
+
+What is an early memory of yours about a community?
+
+What's something that you believe can improve a community?
+
+What's something fun a community leader do to help its partipants?

@@ -182,7 +182,7 @@ How do you like to work and why?
 How do you like to start your days?
 
 
-## Community
+## Community icebreaker questions
 
 What is a good example of a community and why?
 

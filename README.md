@@ -52,7 +52,7 @@ Imagine you can speak at a graduation. What do you emphasize?
 
 Imagine you can teach a group of children. Which topic will you teach?
 
-Imagine you can tell your younger self one sentence. What will it be?
+Imagine you can tell your younger self one thing. What will it be?
 
 Imagine you can get everyone in the world to wear one outfit for one day. What outfit?
 

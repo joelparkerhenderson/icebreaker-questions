@@ -57,6 +57,8 @@ Imagine you can tell your younger self one thing. What will it be?
 
 Imagine you can get everyone in the world to wear one outfit for one day. What outfit?
 
+Imagine you can instantly learn one language. Which do you choose and why?
+
 
 ## What is your favorite …?
 

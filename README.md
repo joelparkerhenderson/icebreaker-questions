@@ -86,3 +86,21 @@ Imagine you are an animal. Which would you be and why?
 Imagine you are an instrument. Which would you be and why?
 
 Imagine you are a flavor. Which would you be and why?
+
+
+## Topic icebreaker questions
+
+What's one thing you tend to like about TOPIC?
+
+What's one thing you tend to like less about TOPIC?
+
+How could TOPIC be better? Brainstorm at least three ideas.
+
+What could potentially help people understand TOPIC better?
+
+What's something that might seem confusing about TOPIC?
+
+What's the polar opposite of TOPIC?
+
+What did people do before TOPIC?
+

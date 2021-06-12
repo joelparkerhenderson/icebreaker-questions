@@ -4,8 +4,15 @@ Icebreaker questions help people get to know each other.
 
 This is our list of friendly questions, that can help people one on one, and in groups, and in work teams.
 
+* [Top 20 icebreaker questions](#top-20-icebreaker-questions)
+* [What is your favorite …?](#what-is-your-favorite)
+* [Imagine you are a …?](#imagine-you-are-a)
+* [Topic icebreaker questions](#topic-icebreaker-questions)
+* [SMART icebreaker questions](#smart-icebreaker-questions)
+* [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
 
-## Our top 20 icebreaker questions
+
+## Top 20 icebreaker questions
 
 Who inspires you and why?
 

@@ -118,3 +118,26 @@ Actionable: How could TOPIC increase actionabilty versus decreas actionability?
 Relevant: Where is TOPIC more relevant versus less relevant? 
 
 Timely: When is TOPIC more timely versus less timely?
+
+
+## Deep dive work icebreaker questions
+
+What talent or potential do you have that is not fully realized during your work?
+
+What single activity, if you could do it every day, would most improve your work?
+
+What’s something that you believed earlier in your career but now think about differently?
+
+Who has inspired your work and how?
+
+What’s one of your favorite work accomplishments?
+
+What’s something that's confusing about your work?
+
+What’s a valuable piece of career advice you’ve been given?
+
+What do you think is something important for a workplace to have?
+
+What's something you admire in work colleagues?
+
+If you could open an office anywhere in the world, where would it be and why?

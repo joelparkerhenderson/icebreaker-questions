@@ -59,6 +59,10 @@ Imagine you can get everyone in the world to wear one outfit for one day. What o
 
 Imagine you can instantly learn one language. Which do you choose and why?
 
+Imagine you can teleport anywhere. Where do you go first?
+
+Imagine you can time travel. When is your next destination?
+
 
 ## What is your favorite …?
 

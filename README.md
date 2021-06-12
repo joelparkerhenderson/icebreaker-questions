@@ -48,7 +48,7 @@ What are you grateful for?
 What motivates you?
 
 
-## What is your favorite…?
+## What is your favorite …?
 
 What is your favorite book genre?
 
@@ -67,3 +67,22 @@ What is your favorite place?
 What is your favorite instrument?
 
 What is your favorite flavor?
+
+
+## Imagine you are a …?
+
+Imagine you are a book. Which would you be and why?
+
+Imagine you are a song. Which would you be and why?
+
+Imagine you are a movie. Which would you be and why?
+
+Imagine you are a food. Which would you be and why?
+
+Imagine you are a drink. Which would you be and why?
+
+Imagine you are an animal. Which would you be and why?
+
+Imagine you are an instrument. Which would you be and why?
+
+Imagine you are a flavor. Which would you be and why?

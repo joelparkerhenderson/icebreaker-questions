@@ -214,3 +214,28 @@ What challenge have you been trying to solve lately?
 Who’s someone you really admire at this company and why?
 
 What can I do to impress you today?
+
+
+## Insight icebreaker questions
+
+[The Balance Careers](https://www.thebalancecareers.com/fun-ice-breaker-questions-1918413) has these questions and more.
+
+If you woke up tomorrow as an animal, what animal would you choose to be and why? Then discuss traits that different animals possess and the traits that different people possess.
+
+If you could live anywhere on this planet and take everything that you love with you, where would you choose to live? Then discuss types of experiences people value.
+
+What favorite color are you and how does being that color make you feel? Then discuss qualitative experience, such as how people may perceive qualities and emotions.
+
+If you could choose your age forever, what age would you choose and why? Then discuss types of experiences that people can have at different ages and abilities, and how that can change over lifetimes.
+
+If you were stranded on a desert island, what three items would you want to have with you, and why? Then discuss the types of things that people value, and the different ways things can be valued.
+
+What's your favorite item that you already have, and why? Then discuss different people having different preferences, and potentially also product design and personal recommendations.
+
+What's an item that you don't have already, would you most like to obtain? Then discuss desire, optional substitutes, and potentially product development, product design, and product marketing.
+
+If you were to create a slogan, what would the slogan be? Then discuss the thought processes that goes into this question because the processes are similar when developing other kinds of creative communications.
+
+If you could choose one hobby that right now seems out of your reach, what hobby would you take up and why? Then discuss the types of things valued by people and potentially by different demographics.
+
+Quickly think of one word that describes the topic at hand, and share the word with the group. Then discuss the ways people can categorize ideas, summarize them, and communicate them.

@@ -12,6 +12,8 @@ This is our list of friendly questions, that can help people one on one, and in 
 * [Topic icebreaker questions](#topic-icebreaker-questions)
 * [SMART icebreaker questions](#smart-icebreaker-questions)
 * [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
+* [Community](#community)
+* [Interviewee icebreaker questions](#interviewee-icebreaker-questions)
 
 
 ## Top 10 icebreaker questions
@@ -193,3 +195,22 @@ What is an early memory of yours about a community?
 What's something that you believe can improve a community?
 
 What's something fun a community leader do to help its partipants?
+
+
+## Interviewee icebreaker questions
+
+What’s a highlight of your week so far?
+
+What do you think your company needs?
+
+What’s a question you would ask if you were me?
+
+If you could do this interview as anyone else, who would it be and why?
+
+What would the boss ask me if they were here right now?
+
+What challenge have you been trying to solve lately?
+
+Who’s someone you really admire at this company and why?
+
+What can I do to impress you today?

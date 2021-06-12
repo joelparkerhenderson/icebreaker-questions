@@ -54,7 +54,7 @@ Imagine you can teach a group of children. Which topic will you teach?
 
 Imagine you can tell your younger self one sentence. What will it be?
 
-Imagine you can make everyone in the world wear one outfit for one day. What outfit?
+Imagine you can get everyone in the world to wear one outfit for one day. What outfit?
 
 
 ## What is your favorite …?

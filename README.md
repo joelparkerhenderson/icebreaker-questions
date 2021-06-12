@@ -1,5 +1,7 @@
 # Icebreaker questions
 
+<img src="README.png" alt="Icebreaker questions" style="width: 100%;"/>
+
 Icebreaker questions help people get to know each other.
 
 This is our list of friendly questions, that can help people one on one, and in groups, and in work teams.

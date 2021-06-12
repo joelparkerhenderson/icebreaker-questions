@@ -8,6 +8,7 @@ This is our list of friendly questions, that can help people one on one, and in 
 * [Imagine you can …?](#imagine-you-can)
 * [What is your favorite …?](#what-is-your-favorite)
 * [Imagine you are a …?](#imagine-you-are-a)
+* [Skill icebreaker questions](#skill-icebreaker-questions)
 * [Topic icebreaker questions](#topic-icebreaker-questions)
 * [SMART icebreaker questions](#smart-icebreaker-questions)
 * [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
@@ -97,6 +98,21 @@ Imagine you are an instrument. Which would you be and why?
 Imagine you are a flavor. Which would you be and why?
 
 
+## Skill icebreaker questions
+
+If you could pick up a certain skill instantly, what would it be?
+
+What’s a skill you learned when you were young that you still use today?
+
+What is something that's noteworthy for you when you're learning a new skill?
+
+If you could choose one skill for schools to teach to kids, what would it be?
+
+What skill would you like your friends or family or coworkers to know more about?
+
+What's something surprising or unusual about a skill that you know?
+
+
 ## Topic icebreaker questions
 
 What's one thing you tend to like about TOPIC?
@@ -158,3 +174,5 @@ What hobby sounds like it could be fun to try?
 What are you reading, or watching, or listening to?
 
 How do you like to start your days?
+
+

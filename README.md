@@ -167,11 +167,9 @@ What's something you admire in work colleagues?
 
 If you could open an office anywhere in the world, where would it be and why?
 
+What are you reading, or watching, or listening to, that's at least a bit about your work?
+
 How do you like to work and why?
-
-What hobby sounds like it could be fun to try?
-
-What are you reading, or watching, or listening to?
 
 How do you like to start your days?
 

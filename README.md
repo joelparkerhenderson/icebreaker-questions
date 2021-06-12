@@ -104,3 +104,17 @@ What's the polar opposite of TOPIC?
 
 What did people do before TOPIC?
 
+
+## SMART icebreaker questions
+
+SMART for us means Specific, Measurable, Actionable, Relevant, Timely. For more see [smart-criteria](https://github.com/joelparkerhenderson/smart-criteria)
+
+Specific: How could TOPIC change if it were narrower versus broader?
+
+Measurable: How could TOPIC be more quantitative versus more qualitative?
+
+Actionable: How could TOPIC increase actionabilty versus decreas actionability?
+
+Relevant: Where is TOPIC more relevant versus less relevant? 
+
+Timely: When is TOPIC more timely versus less timely?

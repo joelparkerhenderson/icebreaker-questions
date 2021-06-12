@@ -4,7 +4,8 @@ Icebreaker questions help people get to know each other.
 
 This is our list of friendly questions, that can help people one on one, and in groups, and in work teams.
 
-* [Top 20 icebreaker questions](#top-20-icebreaker-questions)
+* [Top 10 icebreaker questions](#top-10-icebreaker-questions)
+* [Imagine you can …?](#imagine-you-can)
 * [What is your favorite …?](#what-is-your-favorite)
 * [Imagine you are a …?](#imagine-you-are-a)
 * [Topic icebreaker questions](#topic-icebreaker-questions)
@@ -12,47 +13,48 @@ This is our list of friendly questions, that can help people one on one, and in 
 * [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
 
 
-## Top 20 icebreaker questions
+## Top 10 icebreaker questions
 
 Who inspires you and why?
 
 What energizes you and why?
 
-How do you like to work and why?
+What motivates you to improve?
 
 What are you currently enjoying in your life?
 
-What is a good piece of advice you've received?
+What is a good piece of advice you've received and why?
 
-What is something that you want to learn and why?
+What is something that you want to try and why?
+
+What is one good thing about your week so far?
+
+What is a way you like to do something nice for someone?
+
+What’s something that you value and why?
+
+What do you feel grateful for and why?
+
+
+## Imagine you can …?
+
+Imagine you can host a talk show. Who do you have as a guest?
 
 Imagine you can create a new holiday. What will you create?
 
-Imagine you're a talk show host. Who do you want as a guest?
+Imagine you can go on a free vacation. What would you like to do?
 
-You're invited to teach a class. Which topic will you teach?
+Imagine you can donate a lot of money to a cause. What will it be?
 
-Imagine you win a free vacation. What would you like to do?
+Imagine you can have one semi-super-power. What is it?
 
-What is one good thing and one bad thing about your week?
+Imagine you can speak at a graduation. What do you emphasize? 
 
-What is an easy way to do something nice for someone?
+Imagine you can teach a group of children. Which topic will you teach?
 
-You're invited to speak at a graduation. What do you emphasize?
+Imagine you can tell your younger self one sentence. What will it be?
 
-What are you reading, or watching, or listening to?
-
-What’s something that's confusing and why?
-
-If you could have one semi-super-power, what would it be?
-
-What hobby sounds like it could be fun to try?
-
-How do you like to start your days?
-
-What are you grateful for?
-
-What motivates you?
+Imagine you can make everyone in the world wear one outfit for one day. What outfit?
 
 
 ## What is your favorite …?
@@ -148,3 +150,11 @@ What do you think is something important for a workplace to have?
 What's something you admire in work colleagues?
 
 If you could open an office anywhere in the world, where would it be and why?
+
+How do you like to work and why?
+
+What hobby sounds like it could be fun to try?
+
+What are you reading, or watching, or listening to?
+
+How do you like to start your days?

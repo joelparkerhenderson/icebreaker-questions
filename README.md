@@ -6,16 +6,18 @@ Icebreaker questions help people get to know each other.
 
 This is our list of friendly questions, that can help people one on one, and in groups, and in work teams.
 
-* [Top 10 icebreaker questions](#top-10-icebreaker-questions)
-* [Imagine you can …?](#imagine-you-can)
-* [What is your favorite …?](#what-is-your-favorite)
-* [Imagine you are a …?](#imagine-you-are-a)
-* [Skill icebreaker questions](#skill-icebreaker-questions)
-* [Topic icebreaker questions](#topic-icebreaker-questions)
-* [SMART icebreaker questions](#smart-icebreaker-questions)
-* [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
-* [Community](#community)
-* [Interviewee icebreaker questions](#interviewee-icebreaker-questions)
+- [Top 10 icebreaker questions](#top-10-icebreaker-questions)
+- [Imagine you can …?](#imagine-you-can-)
+- [What is your favorite …?](#what-is-your-favorite-)
+- [Imagine you are a …?](#imagine-you-are-a-)
+- [Skill icebreaker questions](#skill-icebreaker-questions)
+- [Topic icebreaker questions](#topic-icebreaker-questions)
+- [SMART icebreaker questions](#smart-icebreaker-questions)
+- [Deep dive work icebreaker questions](#deep-dive-work-icebreaker-questions)
+- [Community icebreaker questions](#community-icebreaker-questions)
+- [Interviewee icebreaker questions](#interviewee-icebreaker-questions)
+- [Community icebreaker questions](#community-icebreaker-questions-1)
+- [Insight icebreaker questions](#insight-icebreaker-questions)
 
 
 ## Top 10 icebreaker questions
@@ -218,6 +220,23 @@ What challenge have you been trying to solve lately?
 Who’s someone you really admire at this company and why?
 
 What can I do to impress you today?
+
+
+## Community icebreaker questions
+
+What do you think of this community?
+
+What do you want to know about this community?
+
+What do you want this community to know about you?
+
+What do you think of the other community?
+
+What do you want to know about the other community?
+
+What do you want the other community to know about you?
+
+How can these communities interact with each other?
 
 
 ## Insight icebreaker questions

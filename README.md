@@ -17,6 +17,7 @@ This is our list of friendly questions, that can help people one on one, and in 
 - [Community icebreaker questions](#community-icebreaker-questions)
 - [Interviewee icebreaker questions](#interviewee-icebreaker-questions)
 - [Community icebreaker questions](#community-icebreaker-questions-1)
+- [Icebreaker prompts](#icebreaker-prompts)
 - [Insight icebreaker questions](#insight-icebreaker-questions)
 - [Share something](#share-something)
 
@@ -56,7 +57,7 @@ Imagine you can donate a lot of money to a cause. What will it be?
 
 Imagine you can have one semi-super-power. What is it?
 
-Imagine you can speak at a graduation. What do you emphasize? 
+Imagine you can speak at a graduation. What do you emphasize?
 
 Imagine you can teach a group of children. Which topic will you teach?
 
@@ -155,7 +156,7 @@ Measurable: How could TOPIC be more quantitative versus more qualitative?
 
 Actionable: How could TOPIC increase actionabilty versus decreas actionability?
 
-Relevant: Where is TOPIC more relevant versus less relevant? 
+Relevant: Where is TOPIC more relevant versus less relevant?
 
 Timely: When is TOPIC more timely versus less timely?
 
@@ -240,6 +241,62 @@ What do you want the other community to know about you?
 How can these communities interact with each other?
 
 
+
+## Icebreaker prompts
+
+I could give a talk about …
+
+I wish someone had told me …
+
+Lately I've been getting better at …
+
+If I could write a book, the title could be …
+
+Something I recommend often is …
+
+Something I feel is generous is …
+
+Something I appreciate in others is …
+
+A challenge I've overcome is …
+
+A conversation that I would like to have is …
+
+I admire people who …
+
+If I could tell my younger self one thing, it would be …
+
+I like to advocate for …
+
+A time I changed my mind is …
+
+I change my mind more easily when …
+
+I hope to be remembered for …
+
+I would like to change …
+
+I recently thanked …
+
+An experience that shaped who I am …
+
+A person who inspires me is
+
+A lesson I've learned is …
+
+A kind thing someone has done for me is …
+
+My conversational style is …
+
+Someone who taught me a lot is …
+
+I prefer to meet new people …
+
+I would give everything I have to be able to …
+
+A dream I have is …
+
+
 ## Insight icebreaker questions
 
 [The Balance Careers](https://www.thebalancecareers.com/fun-ice-breaker-questions-1918413) has these questions and more.
@@ -288,4 +345,3 @@ Share something life-changing.
 Share something gutsy.
 
 Share something funny.
-

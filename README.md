@@ -18,6 +18,7 @@ This is our list of friendly questions, that can help people one on one, and in 
 - [Interviewee icebreaker questions](#interviewee-icebreaker-questions)
 - [Community icebreaker questions](#community-icebreaker-questions-1)
 - [Insight icebreaker questions](#insight-icebreaker-questions)
+- [Share something](#share-something)
 
 
 ## Top 10 icebreaker questions
@@ -262,3 +263,29 @@ If you were to create a slogan, what would the slogan be? Then discuss the thoug
 If you could choose one hobby that right now seems out of your reach, what hobby would you take up and why? Then discuss the types of things valued by people and potentially by different demographics.
 
 Quickly think of one word that describes the topic at hand, and share the word with the group. Then discuss the ways people can categorize ideas, summarize them, and communicate them.
+
+
+## Share something
+
+These icebreaker prompts are from "Where Should We Begin?" is a game of stories by Esther Perel.
+
+Share something joyful.
+
+Share something from your younger point of view.
+
+Share something close to your heart.
+
+Share something that gets you worked up.
+
+Share something that's changed your worldview.
+
+Share something out of character.
+
+Share something provocative.
+
+Share something life-changing.
+
+Share something gutsy.
+
+Share something funny.
+
